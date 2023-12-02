@@ -11,13 +11,13 @@ Install the libraries in the `requirements.txt` file by running:
 pip install -r requirements.txt
 ```
 
-Then, install the Gymnasium environment by running:
+Make sure to check the installation instructions for QiBullet for specific instructions on how to install the robot meshes: https://github.com/softbankrobotics-research/qibullet
 
+Then, install the Gymnasium environment by running:
 
 ```
 pip install -e humanoid-envs
 ```
-
 
 ---
 
